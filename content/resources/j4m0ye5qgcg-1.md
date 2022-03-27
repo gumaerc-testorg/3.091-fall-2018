@@ -1,0 +1,11 @@
+---
+content_type: resource
+description: ''
+file: /media/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/becc828bf641da3efc23d741132526dc_j4m0Ye5Qgcg.pdf
+file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+resourcetype: Document
+title: 3play pdf file
+uid: becc828b-f641-da3e-fc23-d741132526dc
+---

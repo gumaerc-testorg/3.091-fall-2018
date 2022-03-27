@@ -1,0 +1,29 @@
+---
+content_type: resource
+description: ''
+end_time: ''
+file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
+resourcetype: Video
+start_time: ''
+title: 'Lecture 2: The Periodic Table'
+uid: fd2237b2-a658-fe98-c9bd-056eb5d322ee
+video_files:
+  archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec02_300k.mp4
+  video_captions_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/HaL1Q8f7M_o/default.jpg
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/53417b53d253671a3dd89bb64833d61c_HaL1Q8f7M_o.pdf
+video_metadata:
+  youtube_id: HaL1Q8f7M_o
+---
+
+Description: This lecture covers concept of the mole and organizing the periodic table.
+
+Instructor: Jeffrey C. Grossman
