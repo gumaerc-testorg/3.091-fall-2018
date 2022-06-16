@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/baf21a73c709843169f91f676772fe8e_MIT3_091F18_PPI.pdf
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/baf21a73c709843169f91f676772fe8e_MIT3_091F18_PPI.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,6 @@ resourcetype: Document
 title: "Practice Problem I \u2013 3.091 Introduction to Solid-State Chemistry \u2013\
   \ Fall 2018"
 uid: baf21a73-c709-8431-69f9-1f676772fe8e
+video_metadata:
+  youtube_id: null
 ---

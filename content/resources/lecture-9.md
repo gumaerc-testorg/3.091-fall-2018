@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers Lewis structures, covalent bonds, and resonance.
 
 Instructor: Jeffrey C. Grossman
+
+
+

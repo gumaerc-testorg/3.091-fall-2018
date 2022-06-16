@@ -27,3 +27,6 @@ video_metadata:
 Description: The VSEPR model allows us to predict the shapes of molecules to more fully understand their properties.
 
 Instructor: Jeffrey C. Grossman
+
+
+

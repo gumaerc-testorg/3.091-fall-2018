@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/175845de59d93fde154498af8b63d84e_room1.jpg
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/175845de59d93fde154498af8b63d84e_room1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,6 @@ parent_uid: 01630360-4a0e-e006-7f75-e170bc9a60d9
 resourcetype: Image
 title: room1.jpg
 uid: 175845de-59d9-3fde-1544-98af8b63d84e
+video_metadata:
+  youtube_id: null
 ---

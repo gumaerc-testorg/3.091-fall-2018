@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture continues the discussion of ionization.
 
 Instructor: Jeffrey C. Grossman
+
+
+

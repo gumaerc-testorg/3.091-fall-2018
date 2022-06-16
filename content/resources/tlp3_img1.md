@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/d71536daaf995c7908e9103c4b7535a1_TLP3_img1.png
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/d71536daaf995c7908e9103c4b7535a1_TLP3_img1.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -15,4 +15,6 @@ parent_uid: 24883e67-2898-17cd-6cbe-046c4c3dc01d
 resourcetype: Image
 title: TLP3_img1.png
 uid: d71536da-af99-5c79-08e9-103c4b7535a1
+video_metadata:
+  youtube_id: null
 ---

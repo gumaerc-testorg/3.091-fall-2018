@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture continues the discussion of x-rays and x-ray diffraction techniques.
 
 Instructor: Jeffrey C. Grossman
+
+
+

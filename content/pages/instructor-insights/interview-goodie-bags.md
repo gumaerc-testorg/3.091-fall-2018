@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Prof. Jeffrey Grossman discusses what inspired him\
+  \ to create \u201Cgoodie bags\u201D for the students in 3.091 Introduction to Solid\
+  \ State Chemistry."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +11,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 01630360-4a0e-e006-7f75-e170bc9a60d9
 title: 'Interview: Goodie Bags'
 uid: 24883e67-2898-17cd-6cbe-046c4c3dc01d
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Prof. Jeffrey Grossman discusses what inspired him to create “goodie bags” for the students in_ 3.091 Introduction to Solid-State Chemistry.

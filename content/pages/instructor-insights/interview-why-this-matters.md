@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Jeffrey Grossman discusses the importance of putting
+  concepts from the classroom into real-world context.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 01630360-4a0e-e006-7f75-e170bc9a60d9
 title: "Interview: \u201CWhy this Matters\u201D Moments"
 uid: b7b2766c-e267-d389-0bc2-1fcc7255656f
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Prof. Jeffrey Grossman discusses the importance of putting concepts from the classroom into real-world context__._

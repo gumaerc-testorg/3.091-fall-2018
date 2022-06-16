@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers phases, latent heat, and phase diagrams.
 
 Instructor: Jeffrey C. Grossman
+
+
+

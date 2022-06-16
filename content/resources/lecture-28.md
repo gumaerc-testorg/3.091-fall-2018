@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture explores how similar bonds dissolve similar bonds.
 
 Instructor: Jeffrey C. Grossman
+
+
+

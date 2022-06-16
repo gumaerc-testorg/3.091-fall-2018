@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section gives a description and overview of the course requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: aafc413a-8b97-24de-8ea1-ebaa3479499f
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -27,7 +30,7 @@ The thesis is that _the electronic structure of the elements holds the key to un
 
 In this course, we explore what makes things in the world the way they are and why, to understand the science and consider the engineering. We learn not only why the physical world behaves the way it does, but also how to think with chemical intuition, which can’t be gained simply by observing the macroscopic world. That's because the chemistry of materials is defined by the interactions between building blocks too small to see or interact with. We encourage you to develop a sense for what’s going on in the objects around us at the atomic and molecular scale, which is key to understanding the world as it is and redesigning the world that could be.
 
-"[Why This Matters]({{< baseurl >}}/pages/why-this-matters-videos)" is a brief portion of each lecture focusing on how the topic covered relates to important innovations (and sometimes unexpected consequences) in science and in life, demonstrating real world applications, and suggesting creative directions for research.
+"{{% resource_link "d49e8bd7-c1b7-98fb-514e-71379622e45c" "Why This Matters" %}}" is a brief portion of each lecture focusing on how the topic covered relates to important innovations (and sometimes unexpected consequences) in science and in life, demonstrating real world applications, and suggesting creative directions for research.
 
 Who Should Take This Course?
 ----------------------------
@@ -49,7 +52,7 @@ One week after distribution, in recitation, students take a 15-minute quiz that 
 Exams
 -----
 
-There are three (3) exams and a final exam in this course (see [Exams and Quizzes section]({{< baseurl >}}/pages/exams-and-quizzes)). The final exam takes place during the Final Exam Period. _Do not leave town until after your last final._
+There are three (3) exams and a final exam in this course (see {{% resource_link "fa2efb82-0261-4fe8-ce81-3105145f7d8c" "Exams and Quizzes section" %}}). The final exam takes place during the Final Exam Period. _Do not leave town until after your last final._
 
 Grading
 -------

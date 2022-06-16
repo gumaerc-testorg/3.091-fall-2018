@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers how identical points are arranged in space in crystalline solids and notation.
 
 Instructor: Jeffrey C. Grossman
+
+
+

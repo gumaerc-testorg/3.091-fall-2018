@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture explores chemical kinetics.
 
 Instructor: Jeffrey C. Grossman
+
+
+

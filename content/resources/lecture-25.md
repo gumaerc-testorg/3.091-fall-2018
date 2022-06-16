@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture describes how atoms of glasses or “amorphous materials” are randomly arranged in a non-repeating structure.
 
 Instructor: Jeffrey C. Grossman
+
+
+

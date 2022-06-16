@@ -27,3 +27,6 @@ video_metadata:
 Description: This session explores how interactions between molecules weaker than ionic or covalent bonds give materials their properties.
 
 Instructor: Jeffrey C. Grossman
+
+
+

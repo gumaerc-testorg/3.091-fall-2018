@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture discusses how multiple atomic orbitals with similar energy levels can combine to form equal orbitals that have a lower average energy.
 
 Instructor: Jeffrey C. Grossman
+
+
+

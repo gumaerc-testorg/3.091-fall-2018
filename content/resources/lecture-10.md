@@ -27,3 +27,6 @@ video_metadata:
 Description: Continuation of Lewis structures, covalent bonds, and resonance.
 
 Instructor: Jeffrey C. Grossman
+
+
+

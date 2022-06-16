@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Goodie Bag Tutorials and Problems
 uid: 67bc8622-1cd7-acb5-5aa4-caa98556d6a0
+video_metadata:
+  youtube_id: null
 ---
 
-Goodie Bags (GB’s) are mini-experiment kits that allow students to explore a key concept and solve related problems. [Learn more about what inspired Prof. Grossman to create GBs for the students in 3.091 in the Instructor Insights section]({{< baseurl >}}/pages/instructor-insights/interview-goodie-bags).
+Goodie Bags (GB’s) are mini-experiment kits that allow students to explore a key concept and solve related problems. {{% resource_link "24883e67-2898-17cd-6cbe-046c4c3dc01d" "Learn more about what inspired Prof. Grossman to create GBs for the students in 3.091 in the Instructor Insights section" %}}.
 
 Acknowledgements
 ----------------
@@ -32,7 +35,7 @@ Maddie Sutula
 Goodie Bag 1: Atoms and Reactions
 ---------------------------------
 
-[Goodie Bag 1: Atoms and Reactions - Problems (PDF)]({{< baseurl >}}/resources/mit3_091f18_gb1)
+{{% resource_link "afc24b89-7bba-2b2a-e32e-c31497822f08" "Goodie Bag 1: Atoms and Reactions - Problems (PDF)" %}}
 
 {{< anchor "GB1" >}}{{< /anchor >}}
 
@@ -41,7 +44,7 @@ Goodie Bag 1: Atoms and Reactions
 Goodie Bag 2: Electronic Transitions
 ------------------------------------
 
-[Goodie Bag 2: Electronic Transitions - Problems (PDF)]({{< baseurl >}}/resources/mit3_091f18_gb2)
+{{% resource_link "564bde8b-98c0-c962-52be-b607969967c2" "Goodie Bag 2: Electronic Transitions - Problems (PDF)" %}}
 
 {{< anchor "GB2" >}}{{< /anchor >}}
 
@@ -50,7 +53,7 @@ Goodie Bag 2: Electronic Transitions
 Goodie Bag 3: Ionic Solids
 --------------------------
 
-[Goodie Bag 3: Ionic Solids - Problems (PDF)]({{< baseurl >}}/resources/mit3_091f18_gb3)
+{{% resource_link "21560711-83f8-c94a-93de-0838b8c12ddb" "Goodie Bag 3: Ionic Solids - Problems (PDF)" %}}
 
 {{< anchor "GB3" >}}{{< /anchor >}}
 
@@ -59,7 +62,7 @@ Goodie Bag 3: Ionic Solids
 Goodie Bag 4: VSEPR
 -------------------
 
-[Goodie Bag 4: VSEPR - Problems (PDF)]({{< baseurl >}}/resources/mit3_091f18_gb4)
+{{% resource_link "7910f6d3-4595-629a-ff61-7079c690bae9" "Goodie Bag 4: VSEPR - Problems (PDF)" %}}
 
 {{< anchor "GB4" >}}{{< /anchor >}}
 
@@ -68,7 +71,7 @@ Goodie Bag 4: VSEPR
 Goodie Bag 5: Electronic Materials
 ----------------------------------
 
-[Goodie Bag 5: Electronic Materials - Problems (PDF)]({{< baseurl >}}/resources/mit3_091f18_gb5)
+{{% resource_link "517dc2d8-7c49-6e11-cd20-9def68aed96a" "Goodie Bag 5: Electronic Materials - Problems (PDF)" %}}
 
 {{< anchor "GB5" >}}{{< /anchor >}}
 
@@ -77,7 +80,7 @@ Goodie Bag 5: Electronic Materials
 Goodie Bag 6: Crystallography
 -----------------------------
 
-[Goodie Bag 6: Crystallography - Problems (PDF)]({{< baseurl >}}/resources/mit3_091f18_gb6)
+{{% resource_link "717378f1-643e-a239-1563-9efc0bf0a40b" "Goodie Bag 6: Crystallography - Problems (PDF)" %}}
 
 {{< anchor "GB6" >}}{{< /anchor >}}
 
@@ -86,7 +89,7 @@ Goodie Bag 6: Crystallography
 Goodie Bag 7: Defects
 ---------------------
 
-[Goodie Bag 7: Defects - Problems (PDF)]({{< baseurl >}}/resources/mit3_091f18_gb7)
+{{% resource_link "0b96d759-a9e9-8ced-8c36-11f19dc742d0" "Goodie Bag 7: Defects - Problems (PDF)" %}}
 
 {{< anchor "GB7" >}}{{< /anchor >}}
 
@@ -95,7 +98,7 @@ Goodie Bag 7: Defects
 Goodie Bag 8: Reactions
 -----------------------
 
-[Goodie Bag 8: Reactions - Problems (PDF)]({{< baseurl >}}/resources/mit3_091f18_gb8)
+{{% resource_link "cf1f7d36-d440-9c9e-18bb-ee542fa37945" "Goodie Bag 8: Reactions - Problems (PDF)" %}}
 
 {{< anchor "GB8" >}}{{< /anchor >}}
 
@@ -104,7 +107,7 @@ Goodie Bag 8: Reactions
 Goodie Bag 9: Polymers
 ----------------------
 
-[Goodie Bag 9: Polymers - Problems (PDF)]({{< baseurl >}}/resources/mit3_091f18_gb9)
+{{% resource_link "db9f67c1-d435-da00-b081-d5abf6530e36" "Goodie Bag 9: Polymers - Problems (PDF)" %}}
 
 {{< anchor "GB9" >}}{{< /anchor >}}
 

@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture explores the common ion effect.
 
 Instructor: Jeffrey C. Grossman
+
+
+

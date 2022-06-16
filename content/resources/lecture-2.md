@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers concept of the mole and organizing the periodic table.
 
 Instructor: Jeffrey C. Grossman
+
+
+

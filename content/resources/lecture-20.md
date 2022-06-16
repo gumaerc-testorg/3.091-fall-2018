@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers x-rays which have the right range of wavelengths to image at the atomic scale.
 
 Instructor: Jeffrey C. Grossman
+
+
+

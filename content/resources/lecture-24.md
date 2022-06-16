@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers line defects, which are one-dimensional defects in a crystal that affect macroscopic materials properties such as deformation.
 
 Instructor: Jeffrey C. Grossman
+
+
+

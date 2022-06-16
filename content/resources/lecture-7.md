@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture explores the Aufbau principle to remember the order in which subshells are filled in a multielectron atom.
 
 Instructor: Jeffrey C. Grossman
+
+
+

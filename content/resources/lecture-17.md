@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers metals which are formed from atoms that have partially-filled electronic bands.
 
 Instructor: Jeffrey C. Grossman
+
+
+

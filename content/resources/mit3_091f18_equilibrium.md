@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/0de26165d2c924f4a46e7cb1e3118c23_MIT3_091F18_Equilibrium.pdf
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/0de26165d2c924f4a46e7cb1e3118c23_MIT3_091F18_Equilibrium.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -13,4 +13,6 @@ resourcetype: Document
 title: Extra Notes on Equilibrium (Lecture 28) - Intro to Solid-State Chemistry -
   Fall 2018
 uid: 0de26165-d2c9-24f4-a46e-7cb1e3118c23
+video_metadata:
+  youtube_id: null
 ---

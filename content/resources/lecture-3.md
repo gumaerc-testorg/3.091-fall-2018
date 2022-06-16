@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture discusses the ground-breaking experiments that brought the scientific community closer to understanding the structure of the atom.
 
 Instructor: Jeffrey C. Grossman
+
+
+

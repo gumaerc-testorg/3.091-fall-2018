@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section includes exams and quizzes for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Exams and Quizzes
 uid: fa2efb82-0261-4fe8-ce81-3105145f7d8c
+video_metadata:
+  youtube_id: null
 ---
 
 Quizzes
@@ -26,7 +29,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q01)
+{{% resource_link "a97e7a96-8219-f50d-55d0-e8531852e6bf" "Quiz 1 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -44,7 +47,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q02)
+{{% resource_link "7af19f3c-847c-fbb5-c9ef-79325bf4cfb5" "Quiz 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -62,7 +65,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 3 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q03)
+{{% resource_link "ab0f0813-d6cd-633a-f1e0-9b49f26d0942" "Quiz 3 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -81,7 +84,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 4 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q04)
+{{% resource_link "bc620ed4-d3be-8a6b-617a-dd751fca4dc3" "Quiz 4 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -99,7 +102,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 5 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q05)
+{{% resource_link "78345e01-d991-9d64-845c-8305311e7c41" "Quiz 5 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -117,7 +120,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 6 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q06)
+{{% resource_link "91945436-ed0f-50cd-d95a-e01ace8408d8" "Quiz 6 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -136,7 +139,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 7 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q07)
+{{% resource_link "535f97b6-f94c-5dce-c1f2-780b40038d1a" "Quiz 7 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -171,7 +174,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 8.5 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q08-5)
+{{% resource_link "9d299cb5-456f-070b-9ed7-01a5327e9640" "Quiz 8.5 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -189,7 +192,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 9 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q09)
+{{% resource_link "93c78989-000c-a850-4d5c-06b8d83c0536" "Quiz 9 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -207,7 +210,7 @@ Topics
 {{< tdopen >}}
 
 
-[Quiz 10 (PDF)]({{< baseurl >}}/resources/mit3_091f18_q10)
+{{% resource_link "786dabcb-adc4-2c7f-7143-b2edaab2091c" "Quiz 10 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -243,7 +246,7 @@ Topics
 {{< tdopen >}}
 
 
-[Exam 1 (PDF)]({{< baseurl >}}/resources/mit3_091f18_exam1)
+{{% resource_link "4cbf6f99-4e34-b9cb-e263-0348a59a6cba" "Exam 1 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -273,7 +276,7 @@ Topics
 {{< tdopen >}}
 
 
-[Exam 2 (PDF)]({{< baseurl >}}/resources/mit3_091f18_exam2)
+{{% resource_link "f1ea41b6-38b8-61b0-bbfe-f4b9135d0b10" "Exam 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -302,7 +305,7 @@ Topics
 {{< tdopen >}}
 
 
-[Exam 3 (PDF)]({{< baseurl >}}/resources/mit3_091f18_exam3)
+{{% resource_link "122daa2d-e21e-b752-79c4-10b6ebff876a" "Exam 3 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -336,7 +339,7 @@ Topics
 {{< tdopen >}}
 
 
-[Final Exam (PDF)]({{< baseurl >}}/resources/mit3_091f18_final)
+{{% resource_link "b31b4596-f5c2-458c-6904-7aeecd92a875" "Final Exam (PDF)" %}}
 
 
 {{< tdclose >}}

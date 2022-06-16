@@ -1,11 +1,14 @@
 ---
 content_type: video_gallery
+description: This section contains the 36 lecture videos for the course.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
 title: Lecture Videos
 uid: c5f7e72d-f1c5-ff7e-95b4-98214eab4e24
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 2c6e92d0-2b3f-af09-a81b-1075933212af

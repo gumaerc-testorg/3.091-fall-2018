@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/ab0c527ed0af41c0e354d0e1ea75252d_MIT3_091F18_PPH.pdf
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/ab0c527ed0af41c0e354d0e1ea75252d_MIT3_091F18_PPH.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,6 @@ resourcetype: Document
 title: "Practice Problem H \u2013 3.091 Introduction to Solid-State Chemistry \u2013\
   \ Fall 2018"
 uid: ab0c527e-d0af-41c0-e354-d0e1ea75252d
+video_metadata:
+  youtube_id: null
 ---

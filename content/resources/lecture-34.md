@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers polymer properties, co-polymers, and nature’s polymers.
 
 Instructor: Jeffrey C. Grossman
+
+
+

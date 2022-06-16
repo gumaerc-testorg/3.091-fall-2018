@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers localized disruptions in the regularity of crystal lattices.
 
 Instructor: Jeffrey C. Grossman
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/b31b4596f5c2458c69047aeecd92a875_MIT3_091F18_Final.pdf
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/b31b4596f5c2458c69047aeecd92a875_MIT3_091F18_Final.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,6 @@ parent_uid: fa2efb82-0261-4fe8-ce81-3105145f7d8c
 resourcetype: Document
 title: MIT3_091F18_Final.pdf
 uid: b31b4596-f5c2-458c-6904-7aeecd92a875
+video_metadata:
+  youtube_id: null
 ---

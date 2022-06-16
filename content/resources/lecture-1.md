@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture covers which elements comprise specific materials, how these elements interact with one another, how they are structured, and how the material was processed to achieve this structure.
 
 Instructor: Jeffrey C. Grossman
+
+
+

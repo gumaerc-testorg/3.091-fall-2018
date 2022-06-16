@@ -27,3 +27,6 @@ video_metadata:
 Description: Discussion of polymer properties and cross linking.
 
 Instructor: Jeffrey C. Grossman
+
+
+

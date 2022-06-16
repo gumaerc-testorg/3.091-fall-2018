@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture describes molecular orbital theory which is used to predict the shape and behavior of electrons shared between atoms.
 
 Instructor: Jeffrey C. Grossman
+
+
+

@@ -27,3 +27,6 @@ video_metadata:
 Description: This lecture explores how to find the properties of multiple electrons in an atom using the Schrodinger equation.
 
 Instructor: Jeffrey C. Grossman
+
+
+
