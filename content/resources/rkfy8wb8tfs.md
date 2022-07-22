@@ -1,0 +1,14 @@
+---
+content_type: resource
+description: ''
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/64b1b534baca11231809abe524dbb1bf_rkFY8WB8tfs.srt
+file_type: application/x-subrip
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+resourcetype: Other
+title: 3play caption file
+uid: 64b1b534-baca-1123-1809-abe524dbb1bf
+video_metadata:
+  youtube_id: null
+---
