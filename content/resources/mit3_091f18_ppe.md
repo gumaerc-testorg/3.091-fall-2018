@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/121280d08a77f9a1e34049b849c33d1c_MIT3_091F18_PPE.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Practice Problems
 parent_type: CourseSection

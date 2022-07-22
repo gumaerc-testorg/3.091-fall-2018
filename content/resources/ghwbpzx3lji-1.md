@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/f6dea3b9be40e98e425e67bcf44004f3_GhwBpZx3LjI.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

@@ -5,6 +5,7 @@ file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/69344468f49
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

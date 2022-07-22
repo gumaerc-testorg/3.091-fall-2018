@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -29,6 +30,4 @@ Description: This lecture explores what it means to engineer glass.
 Instructor: Jeffrey C. Grossman
 
 Guest Speaker: Peter B. Houk
-
-
 

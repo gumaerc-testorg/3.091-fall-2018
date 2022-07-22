@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,6 +28,4 @@ video_metadata:
 Description: The VSEPR model allows us to predict the shapes of molecules to more fully understand their properties.
 
 Instructor: Jeffrey C. Grossman
-
-
 
