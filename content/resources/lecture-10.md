@@ -18,9 +18,9 @@ title: 'Lecture 10: Lewis Structures II'
 uid: aee11af6-8181-8c61-54aa-ddf528e4db85
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec10_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/aCJECIYz8gM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/aCJECIYz8gM/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/6adcfa978608e7687db75996f6cde7d9_aCJECIYz8gM.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/aCJECIYz8gM_transcript.pdf
 video_metadata:
   youtube_id: aCJECIYz8gM
 ---

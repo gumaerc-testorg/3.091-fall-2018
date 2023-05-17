@@ -17,9 +17,9 @@ title: 'Why This Matters: The Age of Atomic Design'
 uid: 3c2d77f5-41c5-5ced-5698-128f9429345f
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec01_wtm_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/8KQPpl77fuk_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/8KQPpl77fuk/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/906e234022dee2b5b8f25bc46c0acebe_8KQPpl77fuk.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/8KQPpl77fuk_transcript.pdf
 video_metadata:
   youtube_id: 8KQPpl77fuk
 ---

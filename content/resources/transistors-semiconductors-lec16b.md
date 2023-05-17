@@ -17,9 +17,9 @@ title: Transistors & Semiconductors
 uid: 4cfdba84-317e-0905-d907-de97a9844052
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec16_wtm2_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/P19jcEvALl4_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/P19jcEvALl4/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/4e92c10cd2a1a20d0fa764ce67999810_P19jcEvALl4.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/P19jcEvALl4_transcript.pdf
 video_metadata:
   youtube_id: P19jcEvALl4
 ---

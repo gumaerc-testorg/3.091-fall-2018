@@ -18,9 +18,9 @@ title: 'Lecture 33: Polymers II'
 uid: 1301393b-5d8e-2f85-9b10-7f78c9820039
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec33_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/cMIRECEsKHM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/cMIRECEsKHM/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/b6acaf8e5b9400226a46f6a87693480e_cMIRECEsKHM.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/cMIRECEsKHM_transcript.pdf
 video_metadata:
   youtube_id: cMIRECEsKHM
 ---

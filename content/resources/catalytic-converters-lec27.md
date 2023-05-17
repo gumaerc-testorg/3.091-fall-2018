@@ -17,9 +17,9 @@ title: Catalytic Converters
 uid: f9ffba92-5ea6-fe10-fc97-b0102785f578
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec27_wtm_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/1Sjt9QDNDYU_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/1Sjt9QDNDYU/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/97be8e8411f823172fb9fb358304a4e9_1Sjt9QDNDYU.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/1Sjt9QDNDYU_transcript.pdf
 video_metadata:
   youtube_id: 1Sjt9QDNDYU
 ---
