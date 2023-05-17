@@ -20,10 +20,12 @@ video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec08_300k.mp4
   video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/LV3l9yqJwio_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/LV3l9yqJwio/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/LV3l9yqJwio_transcript.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/c16af7cee8aab8886893ad33d092e92f_LV3l9yqJwio.pdf
 video_metadata:
   youtube_id: LV3l9yqJwio
 ---
+
 Description: This lecture continues the discussion of ionization energy.
 
 Instructor: Jeffrey C. Grossman
+
