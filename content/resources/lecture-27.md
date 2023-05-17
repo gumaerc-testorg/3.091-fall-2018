@@ -18,9 +18,9 @@ title: 'Lecture 27: Reaction Rates'
 uid: 97a416f1-50dc-f92a-ca3e-c31d07a3ca32
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec27_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/GhwBpZx3LjI_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/GhwBpZx3LjI/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/f6dea3b9be40e98e425e67bcf44004f3_GhwBpZx3LjI.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/GhwBpZx3LjI_transcript.pdf
 video_metadata:
   youtube_id: GhwBpZx3LjI
 ---

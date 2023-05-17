@@ -18,9 +18,9 @@ title: 'Lecture 21: X-ray Diffraction Techniques I'
 uid: b1de6f01-1056-0530-c739-0ba0bd703bbf
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec21_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/AqCz_b7VJK8_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/AqCz_b7VJK8/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/f86714018ddd83e670884309f73b96ad_AqCz_b7VJK8.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/AqCz_b7VJK8_transcript.pdf
 video_metadata:
   youtube_id: AqCz_b7VJK8
 ---

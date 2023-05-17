@@ -18,9 +18,9 @@ title: 'Lecture 3: Atomic Models'
 uid: 57f9bf40-46b5-a220-2158-c593bd56bbe5
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec03_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/e_WABkM-Kxo_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/e_WABkM-Kxo/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/d6b6cfe07bca63f33afc0f1e625c168a_EOS0HBUoycc.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/e_WABkM-Kxo_transcript.pdf
 video_metadata:
   youtube_id: e_WABkM-Kxo
 ---

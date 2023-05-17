@@ -18,9 +18,9 @@ title: 'Lecture 28: Introduction to Aqueous Solutions'
 uid: e9bc8e93-91be-4007-850b-4557d1b15d6c
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec28_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/9SvAZgd0J_A_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/9SvAZgd0J_A/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/971f1af47aab15d6f3c4e8c284e46a19_9SvAZgd0J_A.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/9SvAZgd0J_A_transcript.pdf
 video_metadata:
   youtube_id: 9SvAZgd0J_A
 ---

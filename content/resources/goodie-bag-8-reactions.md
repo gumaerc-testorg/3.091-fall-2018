@@ -17,9 +17,9 @@ title: 'Goodie Bag 8: Reactions'
 uid: efc8698a-0207-30c6-83cc-2d4444a3705c
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_goodie_bag_8_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/cSER5tjagqE_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/cSER5tjagqE/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/565016ef1e8f3c4d74a942760d2364c3_cSER5tjagqE.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/cSER5tjagqE_transcript.pdf
 video_metadata:
   youtube_id: cSER5tjagqE
 ---

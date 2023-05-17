@@ -18,9 +18,9 @@ title: 'Lecture 7: Aufbau Principle and Atomic Orbitals'
 uid: 24c2e843-55bf-1d21-0712-7ff762b7a958
 video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec07_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/bhPMi2IvZXs_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/bhPMi2IvZXs/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/fbc0abd64644acf65a927057d65cb98e_bhPMi2IvZXs.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/bhPMi2IvZXs_transcript.pdf
 video_metadata:
   youtube_id: bhPMi2IvZXs
 ---
