@@ -20,7 +20,7 @@ video_files:
   archive_url: https://archive.org/download/MIT3.091F18/MIT3_091F18_lec14_300k.mp4
   video_captions_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/OMFpHmfC1pY_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/OMFpHmfC1pY/default.jpg
-  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/eadbee6687f95125180afd9ee33f9d23_OMFpHmfC1pY.pdf
+  video_transcript_file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/OMFpHmfC1pY_transcript.pdf
 video_metadata:
   youtube_id: OMFpHmfC1pY
 ---
