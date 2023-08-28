@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: The Battery Revolution captions
-uid: 477e1768-06df-44dd-81d3-9ac67fcb7f21
+uid: b8a69143-1850-4e82-a5ca-ea82285175e1
 video_files:
   video_thumbnail_file: null
 video_metadata:

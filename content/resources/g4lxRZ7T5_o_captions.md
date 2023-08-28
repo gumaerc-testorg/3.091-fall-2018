@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 19: Crystallographic Notation captions'
-uid: 30780217-01e9-4719-b823-f7e9df81e279
+uid: 414a0ccb-4983-4d76-8640-5a69c9a29e97
 video_files:
   video_thumbnail_file: null
 video_metadata:

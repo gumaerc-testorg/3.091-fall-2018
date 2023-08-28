@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Imaging with Electrons transcript
-uid: de445012-b786-4e99-a71d-3f4b7991cd6f
+uid: c0645e2e-54a0-4981-ab19-25da31652dfe
 video_files:
   video_thumbnail_file: null
 video_metadata:

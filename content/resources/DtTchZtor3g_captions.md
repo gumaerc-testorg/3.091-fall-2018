@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: "\"Weak\u201D Forces Are Strong captions"
-uid: 913271f0-a9c8-4e8b-bbd2-3df9d58299cf
+uid: f4353d66-e474-4c4a-8029-88f04c51a149
 video_files:
   video_thumbnail_file: null
 video_metadata:

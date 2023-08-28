@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 9: Lewis Structures I transcript'
-uid: 2f65c4cc-62a0-4c2b-a17f-26183ad55e7f
+uid: 24f9a477-07ba-4f6a-b6ff-3319acdeb25c
 video_files:
   video_thumbnail_file: null
 video_metadata:

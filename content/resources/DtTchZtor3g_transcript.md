@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: "\"Weak\u201D Forces Are Strong transcript"
-uid: d1a2283b-a039-4dcb-b333-6089468a3ac9
+uid: 0a9532d4-ccaf-4e21-ab73-455b742d60d2
 video_files:
   video_thumbnail_file: null
 video_metadata:

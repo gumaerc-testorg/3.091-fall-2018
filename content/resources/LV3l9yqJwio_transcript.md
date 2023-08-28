@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 8: Ionization Energy and Potential Energy Surface (PES) transcript'
-uid: bf0f2a55-0c82-432d-bbc1-46e63ef89c2d
+uid: f52710b8-2e1f-4186-933e-706c78767134
 video_files:
   video_thumbnail_file: null
 video_metadata:

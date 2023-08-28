@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Goodie Bag 7: Defects transcript'
-uid: d8f6cddd-47cf-4aa5-851c-4cb34bca9676
+uid: c7e14dae-ad27-4983-8b2e-0f5928c78f5d
 video_files:
   video_thumbnail_file: null
 video_metadata:

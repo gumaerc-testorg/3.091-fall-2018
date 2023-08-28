@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: "Moseley\u2019s Law transcript"
-uid: 74f4141e-7588-463d-ba91-01ae08ad08b8
+uid: 73db29a9-b74b-4131-b0cf-d2312b17d8cc
 video_files:
   video_thumbnail_file: null
 video_metadata:

@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 14: Intermolecular Forces transcript'
-uid: d7a86545-13c0-404a-baaf-c3533fd9c240
+uid: 0b687613-6cc3-4012-ad16-eec9ba262302
 video_files:
   video_thumbnail_file: null
 video_metadata:

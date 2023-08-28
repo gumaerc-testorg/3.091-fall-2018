@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 26: Engineering Glass Properties captions'
-uid: 02b65466-e7af-46db-b03f-79d5d3198cff
+uid: 9fb14943-8daf-4de9-b2a0-a6381359711d
 video_files:
   video_thumbnail_file: null
 video_metadata:

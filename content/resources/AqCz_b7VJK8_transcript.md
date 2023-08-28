@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 21: X-ray Diffraction Techniques I transcript'
-uid: b3d2593a-bdc0-4b14-87d7-3f76424af3b3
+uid: a8fb0f49-f5b0-4e53-8dbe-ac543fa5a2f5
 video_files:
   video_thumbnail_file: null
 video_metadata:

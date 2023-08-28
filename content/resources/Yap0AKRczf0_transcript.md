@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 17: Metals transcript'
-uid: c72c87fd-501c-48b7-831a-fbf0e94812ff
+uid: 954ef144-ec2a-4aa5-ad0c-7cf992fe5042
 video_files:
   video_thumbnail_file: null
 video_metadata:

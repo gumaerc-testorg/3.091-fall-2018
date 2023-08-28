@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Why Are You Here? Introductory Speech transcript
-uid: e1efde99-32a4-4dac-80cd-a2b30d50fb39
+uid: ae07845c-1679-445e-970b-bb72647f27ca
 video_files:
   video_thumbnail_file: null
 video_metadata:

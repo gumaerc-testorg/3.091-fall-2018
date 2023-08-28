@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 30: Acids and Bases II transcript'
-uid: 88bb03b3-8971-4c79-8f17-8c94213347a3
+uid: 03f36b60-dd1e-4ea1-b851-56e76a31b81d
 video_files:
   video_thumbnail_file: null
 video_metadata:

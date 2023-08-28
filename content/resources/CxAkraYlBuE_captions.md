@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 15: Semiconductors captions'
-uid: fa2f9114-f612-4ecb-be4e-a82e32d4c916
+uid: b18791b7-015a-4b9e-a589-047ebf328eb3
 video_files:
   video_thumbnail_file: null
 video_metadata:

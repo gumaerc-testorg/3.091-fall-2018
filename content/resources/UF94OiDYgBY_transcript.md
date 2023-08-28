@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 36: Diffusion II transcript'
-uid: 9879f71a-4e69-468f-902d-f97bbf2580b3
+uid: 00f98a7d-2e27-44f4-872f-5ccf794ae960
 video_files:
   video_thumbnail_file: null
 video_metadata:

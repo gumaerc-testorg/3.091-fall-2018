@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 12: Molecular Orbitals transcript'
-uid: d3dd82a2-3e02-4de3-bd23-9490e81969fa
+uid: 99aa2249-3b04-4aaa-a60a-ebeac39facb7
 video_files:
   video_thumbnail_file: null
 video_metadata:

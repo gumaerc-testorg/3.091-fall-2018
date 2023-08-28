@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Closing Remarks by Prof. Grossman transcript
-uid: 400fd3e5-e732-4394-8439-b3181f689be3
+uid: 0d70be90-b904-475a-84ea-f01c0b9896ba
 video_files:
   video_thumbnail_file: null
 video_metadata:

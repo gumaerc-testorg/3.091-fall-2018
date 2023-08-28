@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 29: Acids and Bases I transcript'
-uid: 508f663f-8e99-48c9-b233-1ea11aa1c3e1
+uid: 6b00b078-9d84-433a-af5f-1a1e9391f63f
 video_files:
   video_thumbnail_file: null
 video_metadata:

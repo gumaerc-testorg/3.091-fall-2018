@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: The Battery Revolution transcript
-uid: e5ff0a89-6b83-4923-b853-e16219db1ab4
+uid: 4b855b4c-8043-4200-a851-670239bc9220
 video_files:
   video_thumbnail_file: null
 video_metadata:

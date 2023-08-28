@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Goodie Bag 2: Electronic Transitions captions'
-uid: 1f08a608-c0cd-47ee-9935-d9bc08683704
+uid: 28bf98dc-7b96-4039-81e7-c4e1bdd3499a
 video_files:
   video_thumbnail_file: null
 video_metadata:

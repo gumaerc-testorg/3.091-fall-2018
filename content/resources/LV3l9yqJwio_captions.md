@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 8: Ionization Energy and Potential Energy Surface (PES) captions'
-uid: 2b0ab28d-7f27-4f84-b4e1-22c3f0e10029
+uid: fd70246f-9c28-4639-90f4-0313d2d38953
 video_files:
   video_thumbnail_file: null
 video_metadata:
