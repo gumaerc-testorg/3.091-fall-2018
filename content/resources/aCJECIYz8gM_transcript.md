@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 10: Lewis Structures II transcript'
-uid: 99be4304-ab5c-4409-9012-a2fc659d71ba
+uid: 7de53461-5e08-4f4f-9a39-250526a6ca06
 video_files:
   video_thumbnail_file: null
 video_metadata:

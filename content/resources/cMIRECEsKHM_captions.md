@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 33: Polymers II captions'
-uid: 2381224c-4c48-45b8-a6ff-648cb6ff2786
+uid: 7aac12a2-8ee2-4b88-ba9e-4d3c08f53d7d
 video_files:
   video_thumbnail_file: null
 video_metadata:

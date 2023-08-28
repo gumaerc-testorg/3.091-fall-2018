@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Properties of Benzene transcript
-uid: 05f10066-156e-4d6f-b040-10680eb43383
+uid: bbde72b1-a980-43fe-a202-d1873721de5c
 video_files:
   video_thumbnail_file: null
 video_metadata:

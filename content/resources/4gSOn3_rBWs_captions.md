@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: Rejected Energy captions
-uid: 014f9943-1b7c-4d81-9478-cd8be9e95256
+uid: 930b7021-658a-4668-b0cc-67cd12e93b89
 video_files:
   video_thumbnail_file: null
 video_metadata:

@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: The Age of Atomic Design transcript
-uid: 1dd4a79c-6352-4cdd-8e40-56d51b1d1b35
+uid: f4346f6e-4c12-46eb-8602-1777d5c62db5
 video_files:
   video_thumbnail_file: null
 video_metadata:

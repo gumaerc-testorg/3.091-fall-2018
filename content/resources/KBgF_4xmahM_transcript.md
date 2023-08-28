@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Goodie Bag 2: Electronic Transitions transcript'
-uid: 4fde365a-d136-45d3-a12c-82550b0f4da8
+uid: cc3f50a6-e89b-4021-b293-3ff1f5511001
 video_files:
   video_thumbnail_file: null
 video_metadata:

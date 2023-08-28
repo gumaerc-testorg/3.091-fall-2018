@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Cars and Carbon Dioxide transcript
-uid: b1382269-00e1-424c-8ce8-6abfe2106aa9
+uid: c4dd65bb-64fc-4928-84b8-958e36c6ba38
 video_files:
   video_thumbnail_file: null
 video_metadata:

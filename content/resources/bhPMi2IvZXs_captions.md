@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 7: Aufbau Principle and Atomic Orbitals captions'
-uid: f222d8cc-8a88-45e3-8d3b-0d7e472aeb4b
+uid: 37a44706-e017-455e-87ee-36668e842f6f
 video_files:
   video_thumbnail_file: null
 video_metadata:

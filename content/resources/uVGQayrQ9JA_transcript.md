@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Two Ways to Separate Pasta transcript
-uid: 33023d88-37ef-43f0-b0a2-81cd6f374529
+uid: 52005905-187a-48f4-a876-902f5eb8ca49
 video_files:
   video_thumbnail_file: null
 video_metadata:

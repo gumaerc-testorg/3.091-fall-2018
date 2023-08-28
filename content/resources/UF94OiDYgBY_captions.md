@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 36: Diffusion II captions'
-uid: 5acf1cff-8179-450c-8298-ae13526895a0
+uid: e58ed5d7-6878-45f9-b85d-f757767aa748
 video_files:
   video_thumbnail_file: null
 video_metadata:

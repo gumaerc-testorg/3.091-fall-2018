@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Transistors & Semiconductors transcript
-uid: 05f81735-13cc-4803-999a-7c806c318e93
+uid: c6d54e16-7072-4531-8b7e-3c6256d43d90
 video_files:
   video_thumbnail_file: null
 video_metadata:

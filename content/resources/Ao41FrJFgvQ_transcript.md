@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 1: Introduction transcript'
-uid: 6eb0bd38-6072-4796-8d33-d32dbdfd4a40
+uid: 828b687d-ee80-4b1b-83d1-8bc41208e7fb
 video_files:
   video_thumbnail_file: null
 video_metadata:

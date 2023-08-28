@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 4: Atomic Spectra transcript'
-uid: 8fcc6d62-9542-4e95-90f5-f70773e71997
+uid: eb64df4f-f30e-4c6d-a94d-12bf32bb4568
 video_files:
   video_thumbnail_file: null
 video_metadata:

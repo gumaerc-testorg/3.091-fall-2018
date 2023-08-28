@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Utilizing Abundant Resources transcript
-uid: 7b09b08a-9b59-4b08-b25e-6a510fe994c9
+uid: a8e6e6bf-06f4-4e51-8642-8b80774bdb1b
 video_files:
   video_thumbnail_file: null
 video_metadata:

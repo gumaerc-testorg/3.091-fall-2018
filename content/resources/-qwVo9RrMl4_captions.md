@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: Wire Drawing captions
-uid: 5ef97a17-5561-44ac-a6f4-c94c46dda37d
+uid: a0285f37-8901-4acc-a711-43d10f1b5149
 video_files:
   video_thumbnail_file: null
 video_metadata:

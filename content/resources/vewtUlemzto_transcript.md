@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Goodie Bag 1: Atoms and Reactions transcript'
-uid: df25cfaa-e050-4f65-9412-7736caa655bf
+uid: c6faed09-f028-4b30-bc09-29fca248456f
 video_files:
   video_thumbnail_file: null
 video_metadata:

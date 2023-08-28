@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: How to Make Blue LEDs transcript
-uid: d1e4354f-e30b-45a3-b159-f27bbd604a3a
+uid: f63b7d79-8f26-4d30-a761-8d44c5720631
 video_files:
   video_thumbnail_file: null
 video_metadata:

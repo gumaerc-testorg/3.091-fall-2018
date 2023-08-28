@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 14: Intermolecular Forces captions'
-uid: 550a97ae-6730-4816-a71d-58e668be9289
+uid: 5785ad49-44fb-4527-be19-1a0f477f4919
 video_files:
   video_thumbnail_file: null
 video_metadata:

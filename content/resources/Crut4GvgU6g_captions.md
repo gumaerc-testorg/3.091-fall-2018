@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: "Moseley\u2019s Law captions"
-uid: af170aca-ddea-47a5-9abc-879d25d09f95
+uid: 46c6132a-cbd1-4b64-8ab1-eaccefad20c4
 video_files:
   video_thumbnail_file: null
 video_metadata:

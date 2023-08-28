@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Carbon Dioxide Concentration transcript
-uid: 5eea28e7-6b8b-4ea5-9cf9-e09eee1ca798
+uid: df59ba45-4387-4eb2-80e2-e76d6ab6589d
 video_files:
   video_thumbnail_file: null
 video_metadata:

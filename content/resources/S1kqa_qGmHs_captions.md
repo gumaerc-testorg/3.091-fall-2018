@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 22: X-ray Diffraction Techniques II captions'
-uid: 1de830ad-06a6-4896-ba66-9a70b0b94f17
+uid: 816de144-6b1d-40d7-b53c-ce5585213c73
 video_files:
   video_thumbnail_file: null
 video_metadata:

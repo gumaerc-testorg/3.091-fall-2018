@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Materials Problems transcript
-uid: 03cddf70-545a-41c7-b425-ed665f5f821b
+uid: 84bea222-03a5-403c-9479-c5a6aca72fbb
 video_files:
   video_thumbnail_file: null
 video_metadata:

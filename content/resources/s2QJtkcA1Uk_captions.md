@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Goodie Bag 4: VSEPR captions'
-uid: afff054a-1888-4fba-b1eb-1a42b4622158
+uid: 022011eb-1ac7-4d80-b639-5ad0e7d17470
 video_files:
   video_thumbnail_file: null
 video_metadata:

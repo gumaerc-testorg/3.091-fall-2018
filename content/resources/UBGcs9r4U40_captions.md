@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: Quantum Domination captions
-uid: 59039977-978e-4a26-98b1-6bacd8ced8a0
+uid: d19b0d52-f126-411a-9543-cc060dfd2950
 video_files:
   video_thumbnail_file: null
 video_metadata:
