@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 2: The Periodic Table captions'
-uid: 33054cda-cd69-4e8f-a28e-5437b0e3d837
+uid: 4bc560bf-bfa9-4c43-81bf-3d0ac6af789d
 video_files:
   video_thumbnail_file: null
 video_metadata:

@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 32: Polymers I transcript'
-uid: b47c46c8-f558-45f9-9e6d-4149bb887cde
+uid: 4dd6ac0d-aa26-4f06-8ea2-84b0581bdfe6
 video_files:
   video_thumbnail_file: null
 video_metadata:

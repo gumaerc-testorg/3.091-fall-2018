@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Goodie Bag 6: Crystallography transcript'
-uid: e4bc290c-f5a9-4c43-801e-38ba417999d9
+uid: 9614bcc5-b4cd-4256-acb1-5a1a9e7ccdf8
 video_files:
   video_thumbnail_file: null
 video_metadata:

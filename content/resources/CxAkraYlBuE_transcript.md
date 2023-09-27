@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 15: Semiconductors transcript'
-uid: 2384ea9a-55cd-4be4-b44d-4b07c25d4931
+uid: bb32fa6b-d4ed-4c7e-9dae-b29f2fac7c91
 video_files:
   video_thumbnail_file: null
 video_metadata:

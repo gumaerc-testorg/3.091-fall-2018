@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 3: Atomic Models transcript'
-uid: 0166abd0-f363-4487-80f3-119722efcd18
+uid: 303c1226-5166-4261-b942-7b419c8bb3d0
 video_files:
   video_thumbnail_file: null
 video_metadata:

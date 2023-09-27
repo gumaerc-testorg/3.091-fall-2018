@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 20: X-ray Emission and Absorption captions'
-uid: ff4cb93d-1446-41e0-af46-66b0d47721c7
+uid: 59719ad7-f432-43f4-b22b-b01331e66528
 video_files:
   video_thumbnail_file: null
 video_metadata:

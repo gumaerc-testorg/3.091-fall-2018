@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: Television Screens captions
-uid: af7f5ad4-8649-4c58-a6c0-72aa26a14a3d
+uid: 026fb89b-920b-445f-8c72-5d17bf544047
 video_files:
   video_thumbnail_file: null
 video_metadata:

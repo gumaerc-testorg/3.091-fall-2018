@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: Transistors & Semiconductors captions
-uid: 53dd7632-2b82-413c-ba5d-193c2fa08b85
+uid: 88498647-c2b4-40fe-9e46-320e3c8b71c4
 video_files:
   video_thumbnail_file: null
 video_metadata:

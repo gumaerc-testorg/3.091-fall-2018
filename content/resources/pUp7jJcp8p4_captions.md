@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: Utilizing Abundant Resources captions
-uid: a1251bbf-2e34-44f5-967b-f1fdf63ca4d3
+uid: 1f6a7c6d-5848-4463-8542-a9fc52cd01f0
 video_files:
   video_thumbnail_file: null
 video_metadata:

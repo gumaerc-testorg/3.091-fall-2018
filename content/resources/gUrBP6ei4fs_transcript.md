@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Ocean Acidification transcript
-uid: 2a8f2b8d-7366-42fd-a39e-a71497e276f8
+uid: d5082b66-6ca6-44a6-b099-6aabf4f427dc
 video_files:
   video_thumbnail_file: null
 video_metadata:

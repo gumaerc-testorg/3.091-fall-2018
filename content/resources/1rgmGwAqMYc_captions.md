@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 31: Exam Review captions'
-uid: c6ca0b2c-1393-46ab-98ae-c24f1656feea
+uid: f43d2fa4-f7c2-4f8e-9336-878a65e41d51
 video_files:
   video_thumbnail_file: null
 video_metadata:

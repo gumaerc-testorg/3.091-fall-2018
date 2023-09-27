@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: Grid-scale Energy Storage captions
-uid: d1a9ae47-08c5-433f-88cb-7621d207edc8
+uid: 4f7d9791-7f28-40ad-920e-ef566ee0ff99
 video_files:
   video_thumbnail_file: null
 video_metadata:

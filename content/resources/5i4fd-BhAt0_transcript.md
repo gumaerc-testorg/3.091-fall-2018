@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Drinking Water transcript
-uid: 3d0413c6-2a8d-45a5-b43b-ee005f7fd3e1
+uid: 5102b38d-415a-4a8b-b279-4d6cfa921257
 video_files:
   video_thumbnail_file: null
 video_metadata:

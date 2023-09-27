@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Goodie Bag 9: Polymers captions'
-uid: dd28c4a8-20e3-4813-8dd5-9ea5f005f9f3
+uid: 7e17e862-1a06-4bf9-a348-5821cb174099
 video_files:
   video_thumbnail_file: null
 video_metadata:

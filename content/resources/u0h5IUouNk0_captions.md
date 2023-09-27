@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Goodie Bag 5: Electronic Materials captions'
-uid: 4bcc8834-4053-4376-a3dd-cd6666ee7582
+uid: 6d7c17a5-0bf7-476a-86bc-86a586a2820c
 video_files:
   video_thumbnail_file: null
 video_metadata:

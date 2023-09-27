@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 35: Diffusion I transcript'
-uid: 1e81eeff-911d-4139-a319-beba2da79095
+uid: cf46b379-71dd-4e65-9e53-19c58d726fb2
 video_files:
   video_thumbnail_file: null
 video_metadata:

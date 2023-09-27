@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 13: Hybridization captions'
-uid: 16b24750-59fa-46e3-9dae-60ea0df6311d
+uid: 2ba682f5-dc1d-401d-98e8-f1a1520a4662
 video_files:
   video_thumbnail_file: null
 video_metadata:

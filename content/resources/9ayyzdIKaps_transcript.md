@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Hard and Soft Water transcript
-uid: 700ae691-0b7c-4d45-ab57-51f71b7a1552
+uid: d7ca2575-b354-434a-be44-911ff7368e88
 video_files:
   video_thumbnail_file: null
 video_metadata:

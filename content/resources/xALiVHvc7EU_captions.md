@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: Imaging with Electrons captions
-uid: d079a67c-c611-4607-8d22-e5333a1d0fe0
+uid: 121cce8e-b8f7-4d15-b046-a641c92f5ae6
 video_files:
   video_thumbnail_file: null
 video_metadata:

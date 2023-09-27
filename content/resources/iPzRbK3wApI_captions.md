@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 34: Introduction to Organic Chemistry captions'
-uid: 6114b0b8-7714-418b-9c55-a613ff5b848a
+uid: e8b695d9-b957-4f7f-894d-c5c2039edb7a
 video_files:
   video_thumbnail_file: null
 video_metadata:

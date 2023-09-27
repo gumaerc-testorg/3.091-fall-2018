@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Refrigerators and CFCs transcript
-uid: 6e32b439-2b7b-4261-8eff-83bfc447b220
+uid: 00e1daa9-8e50-486c-b3ea-44eaea7b79a6
 video_files:
   video_thumbnail_file: null
 video_metadata:

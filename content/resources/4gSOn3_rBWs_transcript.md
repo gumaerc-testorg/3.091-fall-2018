@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Rejected Energy transcript
-uid: 2e34fbb5-def6-42fb-9774-899cb98c268a
+uid: f6047c7c-04fe-41b6-af1c-d60ed2f9cce9
 video_files:
   video_thumbnail_file: null
 video_metadata:

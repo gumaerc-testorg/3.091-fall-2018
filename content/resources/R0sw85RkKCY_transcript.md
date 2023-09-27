@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 18: Introduction to Crystallography transcript'
-uid: 11980f99-59a0-40a4-8ca2-68a0a6050bcd
+uid: 7d551934-9ec3-4d96-aecd-e6e47f580a33
 video_files:
   video_thumbnail_file: null
 video_metadata:

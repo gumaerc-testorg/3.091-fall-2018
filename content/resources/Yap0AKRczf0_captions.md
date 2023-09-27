@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 17: Metals captions'
-uid: 4702babd-e0eb-405a-a52a-8a75a42be28a
+uid: d80aa4b5-90b5-4eed-a6ad-d4d5f1d8c751
 video_files:
   video_thumbnail_file: null
 video_metadata:

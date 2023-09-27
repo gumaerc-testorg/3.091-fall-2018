@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 3: Atomic Models captions'
-uid: 2528db70-d8ff-49ac-bdbc-6c1d33483b0b
+uid: 54cc2e83-c9d6-45df-b262-8306dd55d919
 video_files:
   video_thumbnail_file: null
 video_metadata:

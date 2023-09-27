@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 19: Crystallographic Notation transcript'
-uid: 5fbaad43-65ef-4587-9a24-00b9e48efa37
+uid: 90d5ac6d-fb03-42fc-8c8c-361fe872b116
 video_files:
   video_thumbnail_file: null
 video_metadata:

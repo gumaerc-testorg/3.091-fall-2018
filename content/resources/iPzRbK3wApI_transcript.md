@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 'Lecture 34: Introduction to Organic Chemistry transcript'
-uid: ba694b6c-4b65-4e3c-ab5d-20d5df621b31
+uid: 6e0ea366-a45c-4394-b18f-e9a9d5199fd6
 video_files:
   video_thumbnail_file: null
 video_metadata:

@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 32: Polymers I captions'
-uid: b66466b6-7b53-43c5-880b-de63adc468d8
+uid: 8d3ccb58-f0e2-43da-b8e9-865ad35f26cc
 video_files:
   video_thumbnail_file: null
 video_metadata:

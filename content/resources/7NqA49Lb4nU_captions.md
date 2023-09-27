@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: Personal Energy Storage captions
-uid: fcab1c55-2120-4f66-a1df-da720900a6e5
+uid: 84e344e1-f865-4d06-83bc-bb0779eeb020
 video_files:
   video_thumbnail_file: null
 video_metadata:

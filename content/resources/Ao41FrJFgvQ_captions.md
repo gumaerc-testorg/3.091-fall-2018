@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 1: Introduction captions'
-uid: 37d04c71-1a43-40d0-9cbb-6aacdc049763
+uid: b477ae80-a679-414f-a157-2bc39561e7b0
 video_files:
   video_thumbnail_file: null
 video_metadata:

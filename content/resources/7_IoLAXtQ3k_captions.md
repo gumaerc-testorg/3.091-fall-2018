@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 'Lecture 24: Point and Line Defects II captions'
-uid: d67b3465-cad3-48d5-bccf-aee36c80acb6
+uid: b2a2ebd2-50b0-429a-9344-7d3989243062
 video_files:
   video_thumbnail_file: null
 video_metadata:
