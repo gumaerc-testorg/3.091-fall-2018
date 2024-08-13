@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/69344468f4944d6bcbf4c13dccf8fbd3_MIT3_091F18_Glass.pdf
+file_size: 1108234
 file_type: application/pdf
 learning_resource_types:
 - Readings

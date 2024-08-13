@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/8be8d2af6f24f1e09d377405f91202aa_TLP3_image1.jpg
+file_size: 154820
 file_type: image/jpeg
 image_metadata:
   caption: ''
