@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/b31b4596f5c2458c69047aeecd92a875_MIT3_091F18_Final.pdf
+file_size: 973900
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
