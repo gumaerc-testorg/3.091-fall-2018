@@ -72,5 +72,5 @@ Our goal is to turn students into scholars. Students may do "rote" learning to p
 If you find you need a refresher of high school chemistry to help lay the foundation, these free resources may help:
 
 - [Khan Academy: Chemistry](https://www.khanacademy.org/science/chemistry)
-- [Udemy.com: Chemistry](https://www.udemy.com/chemistry-1a-002-spring-2010/)
+- [Udemy.com: Chemistry](https://www.udemy.com/topic/chemistry/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Brand-Topic_la.EN_cc.US&campaigntype=Search&portfolio=BrandTopic&language=EN&product=Course&test=&audience=Keyword&topic=&priority=NotSpecified&utm_content=deal4584&utm_term=_._ag_137319651978_._ad_634190772138_._kw_udemy%20chemistry_._de_c_._dm__._pl__._ti_kwd-879399363017_._li_9002245_._pd__._&matchtype=b&gad_source=1&gclid=CjwKCAjw3P-2BhAEEiwA3yPhwPLwJChdkkxqtB5MJRYh2yhlp5Kd3NQUQ_MOT3JSxXPQkBnAB5E53RoCdRUQAvD_BwE)
 - [CMU Chemistry](https://web.archive.org/web/20160601000000/http://oli.cmu.edu/courses/free-open/chemistry)
