@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/0de26165d2c924f4a46e7cb1e3118c23_MIT3_091F18_Equilibrium.pdf
+file: /ol-ocw-studio-app/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/0de26165d2c924f4a46e7cb1e3118c23_MIT3_091F18_Equilibrium.pdf
 file_size: 99897
 file_type: application/pdf
 learning_resource_types:
