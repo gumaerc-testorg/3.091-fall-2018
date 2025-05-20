@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/9dd6dc5b4e6138b2339f190ce82d7cc0_MIT3_091F18_PPJ.pdf
+file: courses/3-091-introduction-to-solid-state-chemistry-fall-2018/9dd6dc5b4e6138b2339f190ce82d7cc0_MIT3_091F18_PPJ.pdf
 file_size: 187386
 file_type: application/pdf
 learning_resource_types: []

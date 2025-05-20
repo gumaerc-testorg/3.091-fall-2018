@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/f587b4112a731774e03121863b7aa0db_Goodie_Bag1.png
+file: courses/3-091-introduction-to-solid-state-chemistry-fall-2018/f587b4112a731774e03121863b7aa0db_Goodie_Bag1.png
 file_size: 199347
 file_type: image/png
 image_metadata:
