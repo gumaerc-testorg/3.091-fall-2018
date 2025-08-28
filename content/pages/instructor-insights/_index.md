@@ -15,25 +15,25 @@ video_metadata:
 
 {{< quote "Every time we teach, we can take what we're teaching and try to give it some sort of context." "— Prof. Jeffrey Grossman" >}}
 
-Below, Professor Jeffrey Grossman describes various aspects of how he teaches _3.091 Introduction to Solid-State Chemistry_.
+Below, Professor Jeffrey Grossman describes various aspects of how he teaches *3.091 Introduction to Solid-State Chemistry*.
 
-- {{% resource_link b7b2766c-e267-d389-0bc2-1fcc7255656f "Interview: “Why this Matters” Moments" %}}
-- {{% resource_link 3ef053f7-f4e8-9d36-fea4-7410a47f1c2b "Interview: The Value of Hands-On Learning" %}}
-- {{% resource_link 24883e67-2898-17cd-6cbe-046c4c3dc01d "Interview: Goodie Bags" %}}
+- {{% resource_link "b7b2766c-e267-d389-0bc2-1fcc7255656f" "Interview: “Why this Matters” Moments" %}}
+- {{% resource_link "3ef053f7-f4e8-9d36-fea4-7410a47f1c2b" "Interview: The Value of Hands-On Learning" %}}
+- {{% resource_link "24883e67-2898-17cd-6cbe-046c4c3dc01d" "Interview: Goodie Bags" %}}
 
-{{< simplecast 8fafc1bc-9010-424a-b211-543b0cd186d6 >}}
+{{< resource uuid="96548818-4a62-4062-a17d-e882e3e84315" >}}
 
 Learn More! In the following video from MIT’s Festival of Learning in 2018, Professor Grossman discusses his use of goodie bags and real-life applications in teaching:
 
-_Hands-on Chemistry Learning in 3.091_ from the 2018 Festival of Learning
+*Hands-on Chemistry Learning in 3.091* from the 2018 Festival of Learning
 
 {{< anchor "faculty-intro" >}}{{< /anchor >}}Watch the video excerpt of Professor Grossman's introductory speech to the students:
 
-{{< resource cec83251-a49f-6f0a-38da-f358089aaf0c >}}
+{{< resource uuid="cec83251-a49f-6f0a-38da-f358089aaf0c" >}}
 
 Video excerpt of Professor Grossman's closing remarks to the students in the final lecture:
 
-{{< resource d168dc5a-dc1c-40a4-67ba-d0a7c86a6533 >}}
+{{< resource uuid="d168dc5a-dc1c-40a4-67ba-d0a7c86a6533" >}}
 
 ## Curriculum Information
 
