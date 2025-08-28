@@ -30,7 +30,9 @@
     "website": "3-091-introduction-to-solid-state-chemistry-fall-2018"
   },
   "course_title": "Introduction to Solid-State Chemistry",
+  "hide_download": false,
   "site_short_id": "3.091-fall-2018",
+  "mit_learn_topics": [],
   "course_description": "In this course, we will explore what makes things in the world the way they are and why, to understand the science and consider the engineering. We learn not only why the physical world behaves the way it does, but also how to think with chemical intuition, which can\u2019t be gained simply by observing the macroscopic world.\n\nThis 2018 version of 3.091 by Jeffrey Grossman and the 2010 OCW version by Don Sadoway cover similar topics and both provide complete learning materials. This 2018 version also includes Jeffrey Grossman\u2019s innovative Goodie Bags, Why This Matters, and CHEMATLAS content, as well as additional practice problems, quizzes, and exams.\n",
   "department_numbers": [
     "3"
@@ -46,9 +48,11 @@
     "Tutorial Videos",
     "Problem Sets with Solutions",
     "Exams",
-    "Online Textbook",
-    "Instructor Insights"
+    "Open Textbooks",
+    "Instructor Insights",
+    "Podcasts"
   ],
   "site_uid": "8c4a1c15-b639-44ed-9f21-98cd7cb11960",
+  "site_url_path": "courses/3-091-introduction-to-solid-state-chemistry-fall-2018",
   "title": "Course Metadata"
 }

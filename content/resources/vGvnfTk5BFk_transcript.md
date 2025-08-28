@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/vGvnfTk5BFk_transcript.pdf
 file_size: 22325
 file_type: application/pdf
 learning_resource_types: []
