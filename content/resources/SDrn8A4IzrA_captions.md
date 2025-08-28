@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/SDrn8A4IzrA_captions.webvtt
 file_size: 10869
 file_type: application/x-subrip
 learning_resource_types: []
