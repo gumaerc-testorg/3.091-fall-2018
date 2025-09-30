@@ -21,7 +21,7 @@ There are no prerequisites for this course.
 
 ## Course Description
 
-Introduction to Solid-State Chemistry is one of the [GIRs (General Institute Requirements)](https://firstyear.mit.edu/information-for-advisors/general-institute-requirements-girs/) that all MIT undergraduates take in order to have a solid educational foundation for their majors and their future endeavors.
+Introduction to Solid-State Chemistry is one of the {{% resource_link "c441ba06-2ec8-477b-af8c-67c433bd2155" "GIRs (General Institute Requirements)" %}} that all MIT undergraduates take in order to have a solid educational foundation for their majors and their future endeavors.
 
 The thesis is that *the electronic structure of the elements holds the key to understanding*. What makes one material different from another? How do properties as diverse as how something tastes to how it behaves in a magnetic field all depend on its chemistry? And how can we manipulate these chemical properties to create new and better uses for these materials?
 
@@ -35,7 +35,7 @@ In this course, we explore what makes things in the world the way they are and w
 
 ## Textbook
 
-The main text for this course is: *General Chemistry: Principles, Patterns, and Applications* by Bruce Averill and Patricia Eldredge. It is available to purchase in various formats on [FlatWorld](https://students.flatworldknowledge.com/course/2586417). This book is also available from [the Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/general-chemistry-principles-patterns-and-applications) for free under a CC BY-NC-SA license.
+The main text for this course is: *General Chemistry: Principles, Patterns, and Applications* by Bruce Averill and Patricia Eldredge. It is available to purchase in various formats on {{% resource_link "b2a957dc-8328-4e77-9467-f23cd962b62e" "FlatWorld" %}}. This book is also available from {{% resource_link "959d4752-ffee-4c4d-a90b-e552a5072073" "the Open Textbook Library" %}} for free under a CC BY-NC-SA license.
 
 ## Homework
 
@@ -71,6 +71,6 @@ Our goal is to turn students into scholars. Students may do "rote" learning to p
 
 If you find you need a refresher of high school chemistry to help lay the foundation, these free resources may help:
 
-- [Khan Academy: Chemistry](https://www.khanacademy.org/science/chemistry)
-- [Udemy.com: Chemistry](https://www.udemy.com/topic/chemistry/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Brand-Topic_la.EN_cc.US&campaigntype=Search&portfolio=BrandTopic&language=EN&product=Course&test=&audience=Keyword&topic=&priority=NotSpecified&utm_content=deal4584&utm_term=_._ag_137319651978_._ad_634190772138_._kw_udemy%20chemistry_._de_c_._dm__._pl__._ti_kwd-879399363017_._li_9002245_._pd__._&matchtype=b&gad_source=1&gclid=CjwKCAjw3P-2BhAEEiwA3yPhwPLwJChdkkxqtB5MJRYh2yhlp5Kd3NQUQ_MOT3JSxXPQkBnAB5E53RoCdRUQAvD_BwE)
-- [CMU Chemistry](https://web.archive.org/web/20160601000000/http://oli.cmu.edu/courses/free-open/chemistry)
+- {{% resource_link "d0e08874-32c4-436c-b763-cca2589f407e" "Khan Academy: Chemistry" %}}
+- {{% resource_link "ecb726c3-e80b-402f-afbc-343246aa180c" "Udemy.com: Chemistry" %}}
+- {{% resource_link "343ea7f9-c483-4e14-8702-31323c7b8052" "CMU Chemistry" %}}
