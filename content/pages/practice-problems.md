@@ -9,7 +9,7 @@ video_metadata:
   youtube_id: null
 ---
 
-The practice problems included here (unless otherwise notes) are compiled from: B.A. Averill and P. Eldridge, _[General Chemistry: Principles, Patterns, and Applications.](https://open.umn.edu/opentextbooks/textbooks/general-chemistry-principles-patterns-and-applications)_ (License: CC BY-NC-SA. Source: Open Textbook Library.)
+The practice problems included here (unless otherwise notes) are compiled from: B.A. Averill and P. Eldridge, _{{% resource_link "959d4752-ffee-4c4d-a90b-e552a5072073" "General Chemistry: Principles, Patterns, and Applications." %}}_ (License: CC BY-NC-SA. Source: Open Textbook Library.)
 
 *   {{% resource_link "ad592386-3382-438e-4d70-d312dfbc5938" "Practice Problems A (PDF)" %}}
 *   {{% resource_link "3ef66225-914c-4d88-e19f-145b3aa3a4d0" "Practice Problems B (PDF)" %}}

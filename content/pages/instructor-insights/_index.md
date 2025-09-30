@@ -44,7 +44,7 @@ None
 ### Requirements Satisfied
 
 - GIR ![](/images/educator/icon-question-gir.png)
-- 3.091 can be applied toward a [Bachelor of Science in Materials Science and Engineering](http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/), but is not required.
+- 3.091 can be applied toward a {{% resource_link "0f55c83f-debb-4141-854d-b45e21db9340" "Bachelor of Science in Materials Science and Engineering" %}}, but is not required.
 
 ### Offered
 
